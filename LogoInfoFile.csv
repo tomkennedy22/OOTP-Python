@@ -1,0 +1,434 @@
+TeamName,HasLogo,HasJersey,HasCap
+Riverwood Indians,1,0,2
+Waco Warlocks,1,0,0
+Colorado Silver Bullets,0,1,1
+St Louis Sportsman,0,1,0
+Arizona Copperheads,1,0,0
+Sioux City Soos,1,0,0
+Great Lakes Baseball Conference ,1,0,0
+Jacksonville Kingfishers,1,0,0
+Ft Dodge Federals,0,2,1
+Chicago Union ,0,0,1
+Carrollton Colt  S,0,1,0
+Miami Beach Flamingos,0,2,3
+Pueblo Peaks,1,0,0
+Warnambool Whales,1,0,0
+Marseille Meds,1,0,0
+Sunnyvale Samurai,1,0,0
+Portland Stars,0,1,1
+Fairfax Squires,1,0,0
+Plainview Ponies,1,0,0
+Athletics,0,1,1
+South Shore Sailors,1,0,0
+San Francisco Legion,0,1,2
+Nevada Neons,1,0,0
+Amarillo Gold Sox,1,0,0
+Sacramento Solons,0,1,1
+London Metros,1,0,0
+Caguas Criollos,0,0,1
+Cincinnati Pride,0,1,0
+Bakersfield Bears,1,0,0
+Washington Potomacs,0,2,1
+Jacksonville Rockies,0,1,0
+Kent Invicta,0,2,1
+Annapolis Destroyers,0,1,0
+Knoxville Smokies,0,2,1
+Memphis River Bandits,0,1,1
+St Louis Pioneers,0,2,0
+Caguas Criollos ,0,1,0
+High School Baseball League,1,0,0
+New York Americans,0,3,0
+Salem Senators,0,2,1
+Hawaii Islanders,1,0,0
+Louisville Red Sox,0,1,0
+North American Baseball League,1,0,0
+Charlestown Miners,0,1,1
+Colorado Bears,0,1,1
+Charlotte Monarchs,0,2,1
+Corpus Christi Hooks,0,1,0
+St Petersburg Crocodiles,0,1,0
+Granite City Gophers,1,0,0
+Chicago Union,0,1,1
+Flagstaff Sinaguas,1,0,0
+Arlington Rangers,0,1,1
+Utica Unions,1,0,1
+Bald Knob Bighorns,1,0,0
+Texas Bullets,0,2,1
+Walahachia Whales,1,0,0
+Manhattan Erectors,1,0,0
+Philadelphia Quakers,0,1,0
+Newark Neptunes,0,2,1
+Toronto Blue Collars,1,0,0
+Boston Trolleys,0,0,1
+Vancouver Capilanos,0,2,1
+Salt Lake Lakers,0,1,2
+Ahwatukee Desert Dogs,0,4,1
+London Rippers,1,0,0
+Peterborough River Dogs,0,1,1
+Tallahassee Attorneys,1,0,0
+Syracuse Studs,1,0,0
+Paris Towers,1,0,0
+El Paso Padres,0,1,1
+Croydon Crocs,1,0,0
+Atlantic City Tunas,1,0,0
+Uniondale Bandits,1,0,0
+Minnesota Chiefs Oran,1,0,0
+New Haven Navigators,1,0,0
+Portland Alpines,1,0,0
+Denton City Redbirds,1,0,0
+Springfield Giants S,0,2,1
+Chicago Zephyrs,1,0,0
+Paranassus Schooners,0,1,1
+Minnesota North Stars,0,1,1
+Birmingham,0,1,1
+Bayview Vikings,0,2,1
+Oakland Oaks,0,2,5
+Grand Rapids Ravens,0,0,1
+Fedscap Zpse,1,0,0
+Colorado Springs Sky Sox,1,0,0
+Sioux City Sergeants,1,0,0
+Oklahoma City Friendlies,1,0,0
+United Association,1,0,0
+Buffalo Chargers,0,2,1
+Brooklyn Sluggers,1,0,0
+Amsterdam Mohawks,1,0,0
+Chicago Bues,0,0,1
+Cincinnati Bearcats,0,2,0
+Louisville Spires,0,2,0
+Nashville Vols,0,3,2
+Bethesda Atoms,1,0,0
+Santa Barbara Gauchos,0,2,1
+Kansas City Packers,0,1,1
+Mission Reds,1,0,0
+California Mallards,0,1,0
+Cooperstown Greats,0,1,1
+Cape Coral Loggerheads,1,0,0
+Brooklyn Gladiators,0,1,0
+Fox Cities Foxes,0,2,1
+New York Titans,0,3,0
+Vancouver Trappers,0,1,0
+Crandall Giants,1,0,0
+Greeneville Cosmos,1,0,0
+Toledo Titans,0,2,0
+Grand Rapids Grizzlies,1,0,0
+Japanese Baseball League,1,0,0
+Lagrange Sports,1,0,0
+Peoria Plowboys,0,3,2
+Ontario Blue Pirates,0,1,0
+La Claire Lynx,1,0,0
+Cedar Creek Elks,0,1,3
+Victoria Cougars,0,2,1
+De Jalisco Charros,1,0,0
+Midland Indians,1,0,0
+Brockton Shoemakers,0,1,1
+Carrollton Colt S,1,0,0
+California Vipers,0,2,1
+Topeka,0,1,0
+Chicago Bruins,0,2,1
+San Diego Aztecs,0,0,1
+London Mets,1,0,0
+Kentucky Lions,0,1,0
+Fort Wayne Tincaps,0,1,0
+Baltimore Black Sox,1,2,0
+Frederick Federals,0,2,1
+Mansing Bay Pirates,1,0,0
+Lexington Sycamores,0,2,2
+Minneapolis Millers,1,0,0
+Kingman Torts,1,0,0
+Alaska Goldpanners ,0,2,1
+Raleigh Explorers,0,1,0
+Lansing Lions,1,0,0
+Newcastle Knights,0,1,1
+Virginia Beach Colonials,0,1,0
+Tucson Knights,0,1,0
+Massachusetts Generals,0,4,0
+Federalsjersey Zpscfb,1,0,0
+San Diego Spartans,0,1,0
+Turin Bulls,1,0,0
+Edinburgh Highlanders,0,1,1
+Madrid Monarchs,1,0,0
+Kansas City Kings,1,1,0
+Roanoke Big Licks,1,0,0
+Albuquerque Breakers,0,2,0
+Lamesa Lobos,1,0,0
+Washington Potomacs Bluew,0,0,1
+Belfast Bells,0,1,1
+New York Gothams,1,0,0
+Providence Oaks,0,1,1
+Brisbane Bandits,0,1,1
+Virginia Diamond Club,0,1,0
+Columbus Explorers,0,1,1
+Springfield Spartans,1,0,0
+Vienna Black Eagles,1,0,0
+South Bend Flyers,0,1,1
+Louis Riel Baseball Club,0,1,1
+Kansas City Bandits,0,1,1
+Idaho Steelheads,0,1,0
+Great Plains Flycatchers,0,0,1
+Salzburg Sonatas,1,0,0
+Trenton Owls,0,1,0
+Usa Baseball Team,0,1,1
+Des Moines Bruins,1,0,0
+Indiana Racers,1,0,0
+Santa Barbara Surf,1,0,0
+Detroit Diesel,0,2,1
+New York Rangers,0,1,2
+Poughkeepsie Warriors,1,0,0
+Las Vegas Dons,0,1,1
+Columbia Heights Federals,1,0,0
+Santo Domingo Tortugas,1,0,0
+Birmingham Rebels,0,3,1
+Chicago Lincolns,0,2,1
+Seattle Emeralds,2,0,0
+Philadelphia Kodiaks,0,1,1
+Phoenix Scorpions,0,0,1
+New York Twin Towers,0,1,0
+Chicopee Braves,1,0,0
+Santo Cielo Sea Lions,1,0,1
+Hammond Hustlers,1,0,0
+Seaside Pirates,1,0,1
+Glasgow Rangers,0,1,1
+Tottenham Hotspur,1,0,0
+Hartford Whalers,1,0,0
+Indiana Vipers,0,1,0
+Newark Peppers,0,1,1
+Philadelphia Liberty,0,1,0
+Green Bay Blue Jays,0,1,1
+Anchorage Eskimos,0,2,1
+Bremerton Blue Jackets,0,2,1
+Santa Clara Leopardos,0,1,1
+Thunder Bay Thunderjacks,0,2,1
+Pittsburgh Rivercats,1,0,0
+New York Barons,1,2,0
+Lincoln Sowers,1,0,0
+Yucatan Lions,1,0,0
+Boston Bruins,1,0,0
+Austria Alpines,1,0,0
+St Louis Brewers,2,0,0
+Charleston Charm,1,0,0
+Philadelphia Brewers,0,0,1
+Lehigh Valley Ironkings,1,0,0
+Saskatoon Wheat Barons,1,0,0
+Indianapolis Indians,0,1,1
+Louisville Gents,0,2,0
+Illinois Nationals,0,0,1
+Odessa Oilers,1,0,0
+St Louis Blue Hens,0,1,0
+Detroit Dinosaurs,1,0,0
+Indianapolis Ravens,0,1,1
+Fairborn Legends,0,2,1
+St Paul Spartans,1,0,0
+Montreal Royales,1,0,0
+Atlantic City Aces,0,2,0
+Alexandria Colonials,0,1,1
+Allegheny Gators,1,0,0
+Saint Loius Westerns,0,1,1
+Erie Otters,0,2,1
+Memphis Hound Dogs,1,0,0
+World Baseball League,1,0,0
+Belair Beach Sunbirds,0,2,1
+Canberra Cavalry,0,1,1
+Palmetto Explorers,1,1,0
+Albany Boomers,0,1,1
+New York Hawks,0,2,4
+Manhattan Ikes,1,0,0
+Ottawa Outlaws,1,1,0
+Salt Lake City Alpines,1,0,0
+Sodak Yotes,1,0,0
+Springfield Senators,0,1,2
+New York Hawks(),0,0,5
+Noblesville Knights,1,0,0
+Yonkers Orioles,1,0,1
+Rochester Red Wings,0,2,1
+Seymour Sycamores,1,0,0
+Perth Heat,0,1,1
+Default Ballcap Texture,1,0,0
+Waco Zealots,0,2,1
+Mount Cove Beavers,1,0,0
+Cuban Baseball League,1,0,0
+Raleigh Capitals ,0,1,1
+Virginia Squires,1,0,0
+Denver Zephyrs,0,1,1
+Dragons,0,1,1
+Diluth Dukes,0,1,0
+Tacoma Twins,0,1,1
+Odessa Aggressors,1,0,0
+Belgian Angels,1,0,0
+Montreal Joueurs,1,1,0
+Pittsburgh Packers Green,1,0,0
+Seattle Indians,1,0,0
+Memphis Calvary,0,2,0
+Rockford Robins,1,0,0
+Houston Buffs,1,0,0
+San Antonio Mercury,0,2,1
+San Felipe Gigantes,0,2,1
+Licey Tigres,0,2,1
+Seattle Chiefs,0,3,0
+Rotterdam Neptunes,1,0,0
+Lexington Pioneers,0,2,5
+Atlanta Grays,0,0,1
+Westwood Stars,0,1,0
+Washington Potomacs Gold,0,1,0
+Glen Summit Alpines,1,0,0
+Townsville Torpedos,0,0,1
+Chicago Silver Sox,1,0,0
+Rosetown Phillies,0,1,1
+Newnan Tigers,0,2,1
+Gotham City Giants,1,0,0
+Boston Minutemen,0,1,1
+Shem Creek Shrimp,1,0,0
+Sacramento Senators,1,0,0
+Vancouver Canadians,0,1,0
+Jackson Cottons,0,3,0
+Charlotte Rooks,0,2,0
+Clearlake Largemouths,1,0,0
+Portland Moose,0,1,2
+St Louis Terriers,0,3,1
+Bronx United,1,0,0
+Arcopolis Rockets,0,1,2
+Lincoln Chiefs,1,0,0
+Tacoma Giants S,0,2,1
+Buffalo Beavers,0,1,0
+Miami Aces,0,1,1
+New Orleans Blues,0,2,0
+Scranton Miners,1,0,0
+Hillbillies,0,1,1
+Long Island Knights,1,0,0
+New Zealand Black Sox,0,2,1
+Hobos,0,1,1
+Hartford Lions,0,2,2
+Toledo Wolverines,0,1,1
+Lincoln Association,1,0,0
+Kansas Grays,0,3,0
+Albuquerque Dodgers S,0,2,1
+Texas Oilers,1,0,0
+Minot Mallards,0,2,0
+Big Springs Broncs,1,0,0
+Iowa City Poets,1,0,0
+Santa Fe Fuego ,0,1,0
+Phoenix Firebirds,0,3,2
+Dayford Pilots,1,0,1
+Lake Tahoe Syndicate,1,0,0
+Asburton Spinners,0,0,1
+Lake Placid Miracles,1,1,0
+Alpine Cowboys,0,1,1
+Sydney Blue Sox,0,1,1
+Portland Webfoots,1,0,0
+Buckscap Zpsrwqwsizm,1,0,0
+Honolulu Guardians,1,0,0
+Colorado Springs Peak,1,0,0
+Portland Sasquatches,0,2,1
+Omaha Cardinals,1,0,0
+Oakdale Oaks,1,0,0
+Lafayette Legionnaires,1,0,0
+Three Rivers Giants,1,0,0
+Georgia Titans,0,1,0
+Eau Claire Paws,1,0,0
+Pittsburgh Packers,1,0,0
+Philadelphia Stars,0,2,0
+Kalamazoo Kings,1,0,0
+Buffalo Blues,0,1,1
+Two Rivers Woodmen,1,0,0
+Adelaide Bite,0,1,0
+National Baseball League(),1,0,0
+Manchester Lions,0,1,1
+San Diego Seals,0,1,1
+New Lynn Travelers,0,1,0
+Rochester Raiders,1,0,0
+Manchester City Bc ,1,0,0
+Wichita Jets,1,0,0
+Hamilton Mustangs,0,2,1
+Brooklyn Robins,0,2,2
+New York Giants,0,3,3
+Lethbridge Bulls,0,1,1
+Connecticut Nutmeggers,1,0,0
+Buffalo Buffeds,0,1,1
+Quebec Capitales,0,2,1
+Tecumseh Thunder,0,1,1
+Danville Dinosaurs,1,0,0
+Wichita Indians,1,0,0
+Edmonton Electrics,0,1,1
+Edmonton Flat-tails,1,0,0
+New Jersey Athletics,0,1,0
+Victoria Songhees,0,1,2
+Tacoma Thrashers,1,1,0
+San Bernardino Pioneers,1,0,0
+Elmira Colonels,1,0,0
+Nashville Volshome,0,1,0
+Stillwater Stars,1,0,0
+Portland Brewers,1,0,0
+Bakersfield Sun Sox,1,0,0
+San Juan Marlins,0,2,0
+Northgate Knights,1,0,1
+Las Vegas Magic,0,3,2
+Evansville Electrics,0,2,2
+Maryland Athletics,0,2,0
+Beaumont Golden Gators,0,2,1
+La Habana Los Leones,1,0,0
+Netwon-chilwell Blue Knights,0,1,0
+Little Rock Travelers,0,2,1
+Oxford Academics,1,0,0
+Belfair Barbers,0,2,2
+Cleveland Attack,0,1,0
+St Louis Black Sox,1,0,2
+Fox Chapel Foxes,1,0,0
+Carolina Wrens,1,1,0
+Ohio Knights,0,1,0
+Detroit Lynx,0,2,0
+Anacostia Chiefs,0,2,1
+Montreal Players,0,2,0
+Vancouver Grizzlies,0,2,2
+Johnstown Johnnies,0,3,0
+Charleston Chiefs,1,0,0
+Fresno Force,1,0,0
+St Louis Sultans,0,1,0
+Hood River Brewers,0,0,1
+Los Angeles Mastadons,1,0,0
+Oil City Oilers,0,2,1
+Chicago Whales,0,2,2
+Macon Peaches,0,1,0
+Boston Patriots,0,0,1
+Richmond Rebels,0,1,0
+Atlanta Peaches,0,1,0
+Texas Smokies,1,0,0
+Obsidian Octopuses,1,0,0
+Ulura Monoliths,1,0,0
+San Antonio Turtles,0,1,0
+Williamsport Grays,1,0,0
+Rock Creek Rangers,1,1,0
+Memphis Chicks,0,2,4
+Toronto St Pats,0,2,1
+Pontiac Firebirds,1,1,0
+San Francisco Miners,0,2,3
+Naba,1,0,0
+Pueblo Dodgers,1,0,0
+Springfield Nationals,1,0,0
+Ciudad Trujillo Dragones,0,2,1
+Carolina Flyers,0,2,1
+Lazio Eagles,1,0,0
+Santa Fe Fuego,0,0,1
+United States Baseball League,1,0,0
+Georgia Peanuts,0,0,1
+Springwillow Blue Sox,1,0,1
+Liberty League,1,0,0
+Tel Aviv Lightning,0,1,0
+Monterrey Sultans,1,0,0
+Detroit Motors,0,0,2
+Mud Bay Senators,0,2,0
+Dublin Shamrocks,0,1,1
+Port City Roosters,0,2,1
+Obsidian Orcas,1,0,0
+Birmingham Barons,0,2,1
+Mt Vernon,0,1,1
+Dc Diamond Club,0,1,0
+Tijuana Toros,1,0,0
+Savannah Storm,0,1,0
+Ag Suns,0,2,1
+Wabash Warriors,0,2,2
+Smokey Mountain Moonshine Bandits,1,0,0
+Baltimore Terrapins,0,1,1
+North Carolina Aviators,0,1,0
+Montpelier Salamanders,1,0,0
+Roswell Rockets,1,0,0
+Outback Development League,1,0,0
+South Bend Sabres,1,0,0
